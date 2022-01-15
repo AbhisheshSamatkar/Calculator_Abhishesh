@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculator_Abhishesh/static/css/main.8a56e48c.css",
+    "main.js": "/Calculator_Abhishesh/static/js/main.9f13fc19.js",
+    "static/js/787.395c724f.chunk.js": "/Calculator_Abhishesh/static/js/787.395c724f.chunk.js",
+    "index.html": "/Calculator_Abhishesh/index.html",
+    "main.8a56e48c.css.map": "/Calculator_Abhishesh/static/css/main.8a56e48c.css.map",
+    "main.9f13fc19.js.map": "/Calculator_Abhishesh/static/js/main.9f13fc19.js.map",
+    "787.395c724f.chunk.js.map": "/Calculator_Abhishesh/static/js/787.395c724f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a56e48c.css",
+    "static/js/main.9f13fc19.js"
+  ]
+}
